@@ -1,0 +1,15 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+build:
+  version: "2.00"
+
+cards:
+  message: "Welcome to EazyBank cards related local APIs "
+  contactDetails:
+    name: "shannu bahi - prod owner"
+    email: "shannu@eazybank.com"
+  onCallSupport:
+    - (412) 419-3491
+    - (915) 382-1932

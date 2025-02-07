@@ -1,0 +1,15 @@
+package com.easybytes.cards.constants;
+
+
+public class CardConstants {
+
+    public static final String CARD_NUMBER_PATTERN = "^[0-9]{4}-[0-9]{4}-[0-9]{4}-[0-9]{4}$";
+    public static final String MOBILE_NUMBER_PATTERN = "^[0-9]{10}$";
+    public static final String CARD_TYPE_PATTERN = "^(VISA|MASTERCARD)$";
+    public static final String CARD_LIMIT_PATTERN = "^[0-9]{4}$";
+    public static final String CardType = "Debit Card";
+    public static final Integer totalLimt = 10000;
+    public static final Integer amountUsed = 0;
+    public static final Integer availableAmount = 1000;
+
+}

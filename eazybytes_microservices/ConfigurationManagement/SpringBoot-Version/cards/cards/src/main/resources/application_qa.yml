@@ -1,0 +1,15 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+build:
+  version: "2.300"
+
+cards:
+  message: "Welcome to EazyBank cards related local APIs "
+  contactDetails:
+    name: "sreekar Redyy -Testing Lead"
+    email: "sreekar@eazybank.com"
+  onCallSupport:
+    - (412) 419-3491
+    - (915) 382-1932
